@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_regions
+    description: region id and description

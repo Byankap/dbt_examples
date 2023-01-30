@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_post_history 
+    description: Includes primary key, post id and user id, when post was created, and the post.  

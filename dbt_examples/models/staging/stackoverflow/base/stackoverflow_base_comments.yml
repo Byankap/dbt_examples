@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_comments
+    description: Includes primary key, comment, creatation date, score, and user name and id.  

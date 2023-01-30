@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_employee_territories
+    description: employee with territory id

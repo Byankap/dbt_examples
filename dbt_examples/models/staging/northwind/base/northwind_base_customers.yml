@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_customers 
+    description: customers info, such as name, address, and phone number

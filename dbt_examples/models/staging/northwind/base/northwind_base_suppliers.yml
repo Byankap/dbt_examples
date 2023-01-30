@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_suppliers
+    description: supplier details such as company name, address, supplier_admin, phone number and website link

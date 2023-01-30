@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: northwind_base_employees
+    description: employee details such as name, role, birthday, address, phone number, and supervisor.
+    

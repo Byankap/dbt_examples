@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_users
+    description: Includes primary key, user information such as age, reputation, vote history, and bio info. 

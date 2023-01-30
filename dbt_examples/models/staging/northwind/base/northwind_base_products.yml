@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_products
+    description: product details such as product id, quality, quantity, and price.

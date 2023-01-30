@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_votes
+    description: Includes primary key, creation date, and post and vote id. 

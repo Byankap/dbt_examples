@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_post_links
+    description: Includes primary key, post link id and post id, when post link was created.

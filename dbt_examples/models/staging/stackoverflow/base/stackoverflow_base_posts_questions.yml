@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_posts_questions
+    description: Includes primary key, title, body, how many answer counts, creation date, and last activity and edit date. 

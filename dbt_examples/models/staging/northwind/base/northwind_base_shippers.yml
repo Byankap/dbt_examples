@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_shippers
+    description: shippers information such as name and phone number

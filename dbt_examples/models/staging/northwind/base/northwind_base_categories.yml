@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_categories 
+    description: types and description of products 

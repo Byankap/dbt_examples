@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_order_details
+    description: order details such as order id, product id, price and quantity. 

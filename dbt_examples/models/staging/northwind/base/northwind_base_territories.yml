@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: northwind_base_territories
+    description: Includes territory id, city, and region id 

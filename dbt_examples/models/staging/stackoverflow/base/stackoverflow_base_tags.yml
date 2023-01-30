@@ -1,0 +1,5 @@
+version: 2
+
+models:
+  - name: stackoverflow_base_tags
+    description: Includes primary key, tag name, post id, and number of tags
